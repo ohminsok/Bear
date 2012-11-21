@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BFBear.h"
 
 @interface BFViewController : UIViewController
 

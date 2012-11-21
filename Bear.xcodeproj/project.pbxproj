@@ -18,6 +18,7 @@
 		C4D93999165C4E9E00931989 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D93998165C4E9E00931989 /* Default-568h@2x.png */; };
 		C4D9399C165C4E9E00931989 /* BFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D9399B165C4E9E00931989 /* BFViewController.m */; };
 		C4D9399F165C4E9E00931989 /* BFViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4D9399D165C4E9E00931989 /* BFViewController.xib */; };
+		C4D939A7165C4EB800931989 /* BFBear.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D939A6165C4EB800931989 /* BFBear.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		C4D9399A165C4E9E00931989 /* BFViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BFViewController.h; sourceTree = "<group>"; };
 		C4D9399B165C4E9E00931989 /* BFViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BFViewController.m; sourceTree = "<group>"; };
 		C4D9399E165C4E9E00931989 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/BFViewController.xib; sourceTree = "<group>"; };
+		C4D939A5165C4EB800931989 /* BFBear.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BFBear.h; sourceTree = "<group>"; };
+		C4D939A6165C4EB800931989 /* BFBear.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BFBear.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				C4D9399A165C4E9E00931989 /* BFViewController.h */,
 				C4D9399B165C4E9E00931989 /* BFViewController.m */,
 				C4D9399D165C4E9E00931989 /* BFViewController.xib */,
+				C4D939A5165C4EB800931989 /* BFBear.h */,
+				C4D939A6165C4EB800931989 /* BFBear.m */,
 				C4D93989165C4E9E00931989 /* Supporting Files */,
 			);
 			path = Bear;
@@ -177,6 +182,7 @@
 				C4D9398F165C4E9E00931989 /* main.m in Sources */,
 				C4D93993165C4E9E00931989 /* BFAppDelegate.m in Sources */,
 				C4D9399C165C4E9E00931989 /* BFViewController.m in Sources */,
+				C4D939A7165C4EB800931989 /* BFBear.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
