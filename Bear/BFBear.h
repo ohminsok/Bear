@@ -11,6 +11,7 @@
 @interface BFBear : NSObject
 
 @property (strong, nonatomic) NSString *color;
+@property (strong, nonatomic) NSMutableArray *bear;
 
 -(void)raiseRightHand;
 

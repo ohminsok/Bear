@@ -11,8 +11,9 @@
 @implementation BFBear
 
 
+//why is this _bear??
 -(void)raiseRightHand{
-    NSLog(@"I'm raising my hand");
+    NSLog(@"%@ raising my hand", _bear);
     
     [self raiseLeftHand];
 }
